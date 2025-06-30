@@ -1,0 +1,6 @@
+{
+  "appId": "com.brightmedia.iosapp",
+  "appName": "Bright Media",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
